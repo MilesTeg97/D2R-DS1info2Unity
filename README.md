@@ -22,8 +22,8 @@ requires:
 - copy the .ds1 and .json of the map to your Win_DS1Edit folder
 - edit map in Win_DS1Edit, save & quit
 - run the tool: 
-     - click unityhelper.py and select MAPNAME.ds1
-     - or via commandline: unityhelper.py MAPNAME.ds1
+     - click ds1info2unity.py and select MAPNAME.ds1
+     - or via commandline: ds1info2unity.py MAPNAME.ds1
 
 ### Brief background
 Diablo2 maps are in \*.ds1 file format. These can be edited using Paul Siramys awesome visual Win_DS1Edit.
@@ -36,7 +36,7 @@ In addition D2R adds .json files which store most of the high def visual infos o
 Unity-D2R-Scene-Editor can only open and edit the .json files. Therefor you are editing "blindly" because all changes made in Win_DS1Edit (floor tile calculation, interactive objects, player collision info etc.) are invisible to Unity-D2R-Scene-Editor. 
 
 ##### Solution
-D2R-UnityHelper converts map information from .ds1 to .json and provides map makers with visual cue objects (read-only) where changes were made. (I'll add some screens later)
+ds1info2unity converts map information from .ds1 to .json and provides map makers with visual cue objects (read-only) where changes were made. (I'll add some screens later)
 
 
 ### FAQ
