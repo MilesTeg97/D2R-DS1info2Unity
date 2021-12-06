@@ -2,7 +2,7 @@
 # D2R: DS1info2Unity
 Adds DS1-infos to UnityEditor.
 
-technical: this tool converts .ds1 level info to .json. Provides 3D-reference objects in Unity-D2R-Scene-Editor for easier D2R map editing.
+technical: this tool extracts infos from a .ds1 level and adds to/merges with .json. Provides 3D-reference objects in Unity-D2R-Scene-Editor for easier D2R map editing.
 
 tldr: Helps you create D2R maps :)
 ![example](https://github.com/MilesTeg97/D2R-DS1info2Unity/blob/main/pngs/denent4_descr.png)
