@@ -8,9 +8,9 @@ tldr: Helps you create D2R maps :)
 
 
 ## Installation:
-- Extract all files to your working* Win_DS1Edit folder.
+- Extract all files to your Win_DS1Edit folder.
 
-*see guide "Unlock map editing for D2R" at https://www.d2rmodding.com/guides
+(see guide "Unlock map editing for D2R" at https://www.d2rmodding.com/guides )
 
 requires:
 - python 3 (python.org) and numpy (command line: pip install numpy)
