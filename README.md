@@ -1,5 +1,5 @@
 
-# D2R-UnityHelper
+# D2R-DS1info2Unity
 Helps map designers to get maps from .ds1 to Unity.
 
 technical: Converts .ds1 level info to .json. Provides 3D-reference objects in Unity-D2R-Scene-Editor for easier D2R map editing.
