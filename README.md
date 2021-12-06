@@ -59,6 +59,8 @@ huge thanks to
 
 ### Copyrights
 
+This tool uses a modified version of Paul Siramys Win_DS1Edit http://paul.siramy.free.fr/_divers/ds1/dl_ds1edit.html 
+
 Diablo II and Diablo II: Resurrected are copyrighted by Blizzard Entertainment, Inc. All rights reserved. Diablo II, Diablo II: Resurrected and Blizzard Entertainment are trademarks or registered trademarks of Blizzard Entertainment, Inc. in the U.S. and/or other countries.
 All trademarks referenced here are the properties of their respective owners.
 
