@@ -14,7 +14,9 @@ tldr: Helps you create D2R maps :)
 
 requires:
 - python 3 (python.org) and numpy (command line: pip install numpy)
-(- [optional] json to improve performance: pip install ujson)
+- [optional] json to improve performance: pip install ujson
+- Win_DS1Edit. See guide "Unlock map editing for D2R" at https://www.d2rmodding.com/guides 
+- Unity-D2R-Scene-Editor see https://github.com/pairofdocs/Unity-D2R-Scene-Editor
 
 ## Usage:
 - copy the .ds1 and .json of the map to your Win_DS1Edit folder
@@ -49,7 +51,14 @@ Creating preset tilemaps ("floors") is relatively easy (or at least well documen
 
 #### Credits
 huge thanks to 
+- pairofdocs & Shalzuth https://github.com/pairofdocs/Unity-D2R-Scene-Editor
 - Bonesy for his great D2R tutorials
-- https://d2mods.info/
-- Phrozen Keep community (especially for creating & hosting a superb knowledge base)
-- the nice D2 modding community in general
+- www.d2mods.info aka Phrozen Keep community (especially for creating & hosting a superb knowledge base)
+- the nice D2 modding community in general :)
+
+### Copyrights
+
+Diablo II and Diablo II: Resurrected are copyrighted by Blizzard Entertainment, Inc. All rights reserved. Diablo II, Diablo II: Resurrected and Blizzard Entertainment are trademarks or registered trademarks of Blizzard Entertainment, Inc. in the U.S. and/or other countries.
+All trademarks referenced here are the properties of their respective owners.
+
+This project and its maintainers are not associated with or endorsed by Blizzard Entertainment, Inc.
