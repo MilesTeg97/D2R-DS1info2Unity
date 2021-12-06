@@ -51,6 +51,7 @@ Creating preset tilemaps ("floors") is relatively easy (or at least well documen
 
 #### Credits
 huge thanks to 
+- Huge thanks to Paul Siramy for his great editor: Win_DS1Edit http://paul.siramy.free.fr/_divers/ds1/dl_ds1edit.html 
 - pairofdocs & Shalzuth https://github.com/pairofdocs/Unity-D2R-Scene-Editor
 - Bonesy for his great D2R tutorials
 - www.d2mods.info aka Phrozen Keep community (especially for creating & hosting a superb knowledge base)
